@@ -1,0 +1,10 @@
+.navbar__container p {
+    color: yellow !important;
+    font-size: 24px;
+}
+.navbar__container {
+    background-color: black;
+}
+.header__logo img {
+    width: 10%;
+}
